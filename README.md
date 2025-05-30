@@ -37,7 +37,7 @@ Edit
 git clone https://github.com/Vishwa5395/Static-Website-Hosting-using-S3.git
 cd static-website-hosting-s3
 ```
-2. Open in Browser
+### 2. Open in Browser
 Just open the index.html file directly in your browser:
 
 bash
