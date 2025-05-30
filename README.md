@@ -36,6 +36,7 @@ Edit
 ```bash
 git clone https://github.com/Vishwa5395/Static-Website-Hosting-using-S3.git
 cd static-website-hosting-s3
+```
 2. Open in Browser
 Just open the index.html file directly in your browser:
 
@@ -75,6 +76,7 @@ Set Bucket Policy (for public access)
 json
 Copy
 Edit
+```bash
 {
   "Version": "2012-10-17",
   "Statement": [
@@ -87,6 +89,7 @@ Edit
     }
   ]
 }
+```
 Access Your Site
 
 Use the S3 Static Website Endpoint provided in the properties
